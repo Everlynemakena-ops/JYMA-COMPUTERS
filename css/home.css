@@ -1,0 +1,72 @@
+#logo{
+
+    width: 120px;
+    height: 100px;
+}
+
+#one{
+background-color: rgb(92, 172, 237);
+font-style: oblique;
+text-align: center;
+margin: 55px;
+}
+
+
+.btn1{
+background-color: rgb(246, 247, 247);
+border-radius: 20px;
+font-weight: bold;
+height: 120pxpx;
+width: 150px;
+
+}
+
+
+.laptop{
+width: 300px;
+height: 200px;
+
+
+}
+
+
+#two{
+display: flex;
+margin-top: 30px;
+background-color: azure;
+margin-left: 55px;
+text-align: center;
+}
+
+
+#laptop1{
+margin: 10px;
+padding: 5px;
+width: 150px;
+height: 100px;
+}
+
+.laptops{
+margin-top: 30px;
+text-align: left;
+padding: 50px;
+margin-left: 55px;
+background-color: azure;
+display: flex;
+margin-right: 55PX;
+text-align: center;
+
+}
+
+
+.btn1{
+    border-radius: 5px;
+display: flexbox;
+background-color: lavender;
+font-weight: bold;
+padding: 5px 5px;}
+
+.btn:hover {
+    background-color: rgb(247, 109, 87);
+
+}
